@@ -1,0 +1,64 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"ZiggyTheHamster"
+		],
+		"description": "ZiggyTheHamster's TF2 Bot Detector player list",
+		"title": "ZiggyTheHamster's List",
+		"update_url": "https://raw.githubusercontent.com/ziggythehamster/botdetector.tf-lists/main/playerlist.ziggythehamster.json"
+	},
+	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "(Voice) Magnetic",
+				"time": 1637967726
+			},
+			"steamid": "[U:1:1061010936]",
+			"proof": [
+				"Weapons named with transphobic slurs",
+				"Vanity URL uses the R word",
+				"https://steamcommunity.com/profiles/76561199021276664/inventory#440_2_10957058815"
+			]
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Goom",
+				"time": 1637973620
+			},
+			"steamid": "[U:1:90290148]",
+			"proof": [
+				"Has a keybind that chats transphobic messages",
+				"Weapons with transphobic and homophobic names",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_10162298209",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_7602809349",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_9056392747",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_10116352772",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_10916636123",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_10974732673",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_10116443641",
+				"https://steamcommunity.com/id/76561198050555876/inventory/#440_2_9008456861"
+			]
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gato Selling 40 unusual N Spell",
+				"time": 1637956811
+			},
+			"steamid": "[U:1:354510317]",
+			"proof": [
+				"Joined a server and spammed their trades",
+				"Profile consists mostly of items for sale"
+			]
+		}
+	]
+}
