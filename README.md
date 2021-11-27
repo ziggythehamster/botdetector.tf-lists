@@ -2,6 +2,10 @@
 
 Lists and rules for [botdetector.tf](https://botdetector.tf)
 
+## Installation
+
+Download the repository ZIP, extract the JSON files to your botdetector.tf `cfg` directory. The rules will automatically update from then on.
+
 ## Contributing
 
 I accept PRs and issues with new players/rules to add, but they must be substantiated. You can attach screenshots to a PR/issue, link to someone's inventory, etc.
