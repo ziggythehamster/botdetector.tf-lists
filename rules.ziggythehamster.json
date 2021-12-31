@@ -23,6 +23,38 @@
 					}
 				]
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "HOLIDAYS WITH CRAZY FROG bot - [U:1:1215302001] [U:1:1215345414] [U:1:1215574566] [U:1:1215726420]",
+			"triggers": {
+				"mode": "match_any",
+				"avatar_match": [
+					{
+						"avatar_hash": "13c824b6db96f7d5a1eac29cee79ebcc156c16c4"
+					},
+					{
+						"avatar_hash": "6be3e27390c47052b12a1346fa03c01d1ca58a11"
+					},
+					{
+						"avatar_hash": "0d42b9a7d10fb800688a37f5dea7f4d859a56dad"
+					},
+					{
+						"avatar_hash": "43841932577266cada99274d5b345cb439586c2a"
+					}
+				],
+				"personaname_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"c-v.sh/tenornotelets"
+					]
+				}
+			}
 		}
 	]
 }
